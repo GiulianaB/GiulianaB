@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2020-09-21
 venue: 'Journal of Geophysical Research: Oceans'
+excerpt: ' '
 citation: 'Berden, G., Charo, M., Möller, O. O. Jr., & Piola, A. R. (2020). Circulation and hydrography in the western south atlantic shelf and export to the deep adjacent ocean: 30°S to 40°S. Journal of Geophysical Research: Oceans, 125, e2020JC016500. https://doi.org/10.1029/2020JC016500'
 ---
 Abstract:
