@@ -14,4 +14,6 @@ Berden Giuliana, Piola Alberto, Palma Elbio
 -->
 
 
+**Authors:** Berden Giuliana, Piola Alberto, Palma Elbio
+
 <a href="{{ site.baseurl }}/files/pdoc-researchday2025schedule.pdf" target="_blank" rel="noopener noreferrer">📅 View full program</a>
