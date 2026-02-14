@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Improving the short-range forecast of storm surges in the southwestern Atlantic continental shelf using 4DEnSRF data assimilation"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2023-06-13
+venue: 'Quarterly Journal of the Royal Meteorological Society'
+citation: 'Dinápoli, M.G., Ruiz, J.J., Simionato, C.G. & Berden, G.(2023) Improving the short-range forecast of storm surges in the southwestern Atlantic continental shelf using 4DEnSRF data assimilation. Quarterly Journal of the Royal Meteorological Society, 149(755, 2333–2347. Available from: https://doi.org/10.1002/qj.4509'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Abstract**
+In this study, the assimilation of tide gauge and altimetry data into a two-dimensional barotropic numerical model for the southwestern Atlantic continental shelf (SWACS) was developed. To do this, the preoperative 4-day storm surges ensemble prediction system developed by Dinápoli et al. (2021, Journal of the Royal Meteorological Society 147: 557–572) was implemented for the SWACS. This new configuration, called “Model for Storm Surge Simulations” (M3S), considers a curvilinear grid that covers the SWACS with higher resolution along the shoreline (from 2 to 10 km). M3S was forced with an ensemble of 60 members conformed by the combination of perturbations of the eight principal tidal constituents and of the atmospheric products derived from the Global Ensemble Forecast System. Tidal gauge and altimetry data were assimilated in an asynchronous mode using the four-dimensional-ensemble square-root filter (4DEnSRF). The system was developed and validated forecasting two strong positive storm surges. Results show that 4DEnSRF's innovations produce a positive impact upon the forecast skill up to 2 days. Hence, the 4-day forecast can be divided into two parts: the first 2 days with a stronger dependence on the initial conditions and the other 2 days purely driven by external forcing. It was found that a symmetric assimilation window of 12 hr length produces the best initial condition. Under this configuration, 4DEnSRF removes biases and improves the timing of the M3S forecasted solutions. The largest improvements were observed at the northern SWACS, where more chaotic processes, such as the atmospheric circulation, explain a large part of the sea-surface height variability. No significant improvements were found at the southern SWACS, which can be attributed to the strong tidal dynamics that characterise the zone. Our results show that the incorporation of 4DEnSRF into M3S can significantly improve the forecast in the SWACS and also the accuracy of the short-range detection of storm surges.
