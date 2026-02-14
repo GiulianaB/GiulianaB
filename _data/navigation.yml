@@ -13,6 +13,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Oceanographic Cruises"
+    url: /cruises/
     
   - title: "CV"
     url: /cv/
