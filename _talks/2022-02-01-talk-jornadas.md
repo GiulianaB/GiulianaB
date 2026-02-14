@@ -3,7 +3,7 @@ title: "Evidencia de un flujo de Agua Intermedia Antártica hacia el norte a lo 
 collection: talks
 type: "Talk"
 permalink: /talks/2022-03-01-tutorial-1
-venue: "UJornadas Nacionales de Ciencias del Mar"
+venue: "Jornadas Nacionales de Ciencias del Mar"
 date: 2022-03-28
 location: "Comodoro Rivadavia, Argentina"
 ---
