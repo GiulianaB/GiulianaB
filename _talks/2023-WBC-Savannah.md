@@ -36,4 +36,4 @@ the shelf that lead to the convergence of the
 along-shelf flow, which is compensated by 
 offshore transport. The preferential export path is 
 determined by the mesoscale activity of the WBCs 
-and their positions
+and their positions.
