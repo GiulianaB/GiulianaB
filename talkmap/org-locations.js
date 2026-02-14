@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Revealing the submesoscale structure of subthermocline eddies in the North East Pacific<br />SWOT Science Team Meeting; Arcachon, France",
+    44.6616428,
+    -1.1700018
+  ],
+  [
     "Extreme event of water exchange between the Western Boundary Currents and the adjacent shelf in the South Atlantic<br />International Workshop on Western Boundary Current \u2013 Subtropical Continental Shelf Interactions; Savannah, Georgia, United States",
     32.0790074,
     -81.0921335
