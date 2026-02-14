@@ -23,7 +23,7 @@ repository               : "giulianab/giulianab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Berden-2.png"
+  avatar           : "profile.png"
   name             : "Giuliana"
   pronouns         : # example: "she/her"  
   bio              : "Physical Oceanographer studying ocean circulation and dynamics"
