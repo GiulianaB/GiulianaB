@@ -2,22 +2,18 @@
 title: "Extreme event of water exchange between the Western Boundary Currents and the adjacent shelf in the South Atlantic"
 collection: talks
 type: "Poster"
-permalink: /talks/2023-05-22-WBC
+permalink: /talks/2023-WBC-Savannah
 venue: "International Workshop on Western Boundary Current – Subtropical Continental Shelf Interactions"
 date: 2023-05-22
 location: "Savannah, Georgia, United States"
 --- 
 
-Giuliana Berden (1,2,3) and Alberto Piola (1,2,3)
+Giuliana Berden, Alberto Piola 
 
-1) Consejo Nacional de Investigaciones Científicas y
-Técnicas (CONICET), Buenos Aires, Argentina. 
-2) Servicio de Hidrografía Naval (SHN), Buenos Aires, 
-Argentina.
-3) Universidad de Buenos Aires (UBA), Facultad de 
-Ciencias Exactas y Naturales, Dpto de Ciencias de la 
-Atmósfera y los Océanos, Buenos Aires, Argentina.
+🌐 [Visit Workshop website]([https://swot2025.or](https://www.skio.uga.edu/international-workshop-on-western-boundary-current-subtropical-continental-shelf-interactions-2/))
 
+
+Abstract:
 The interaction between the Western 
 Boundary Currents (WBCs) of the South Atlantic
 (e.g. the Brazil and Malvinas currents) and the 
