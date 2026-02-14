@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-08-02-Ferronato
 date: 2023-06-13
+excerpt: ''
 venue: 'Limnology and Oceanography'
 citation: 'Ferronato, C., Berden, G., Rivarossa, M. and Guinder, V.A. (2023), Wind-driven currents and water masses shape spring phytoplankton distribution and composition in hydrologically complex, productive shelf waters. Limnol Oceanogr, 68: 2195-2210. https://doi.org/10.1002/lno.12413'
 ---
