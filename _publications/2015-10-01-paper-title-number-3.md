@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 date: 2023-06-13
+excerpt: ''
 venue: 'Quarterly Journal of the Royal Meteorological Society'
 citation: 'Dinápoli, M.G., Ruiz, J.J., Simionato, C.G. & Berden, G.(2023) Improving the short-range forecast of storm surges in the southwestern Atlantic continental shelf using 4DEnSRF data assimilation. Quarterly Journal of the Royal Meteorological Society, 149(755, 2333–2347. Available from: https://doi.org/10.1002/qj.4509'
 ---
