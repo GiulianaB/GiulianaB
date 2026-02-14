@@ -12,13 +12,13 @@ main:
     url: /publications/ 
 
   - title: "Congress"
-    url: /congress/ 
+    url: /talks/ 
 
   - title: "Teaching"
     url: /teaching/    
 
   - title: "Oceanographic Cruises"
-    url: /cruises/
+    url: /porfolio/
     
   - title: "CV"
     url: /cv/
