@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Circulation and Hydrography in the Western South Atlantic Shelf and Export to the Deep Adjacent Ocean: 30°S to 40°S"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
