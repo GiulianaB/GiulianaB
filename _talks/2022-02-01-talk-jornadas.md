@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/2022-03-01-tutorial-1
 venue: "Jornadas Nacionales de Ciencias del Mar"
-date: 2022-03-28
+date: 2022-28-03
 location: "Comodoro Rivadavia, Argentina"
 ---
