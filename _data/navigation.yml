@@ -11,6 +11,9 @@ main:
   - title: "Publications"
     url: /publications/ 
 
+  - title: "Congress"
+    url: /congress/ 
+
   - title: "Teaching"
     url: /teaching/    
 
