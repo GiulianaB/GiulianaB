@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Evidencia de un flujo de Agua Intermedia Ant\u00e1rtica hacia el norte a lo largo del talud continental del Atl\u00e1ntico Sur Occidental a 34\u00baS\u201d in the National Congress<br />UJornadas Nacionales de Ciencias del Mar; Comodoro Rivadavia, Argentina",
+    "Evidencia de un flujo de Agua Intermedia Ant\u00e1rtica hacia el norte a lo largo del talud continental del Atl\u00e1ntico Sur Occidental a 34\u00baS\u201d in the National Congress<br />Jornadas Nacionales de Ciencias del Mar; Comodoro Rivadavia, Argentina",
     -45.8632024,
     -67.4752615
   ],
@@ -10,7 +10,7 @@ var addressPoints = [
     -123.364953
   ],
   [
-    "Intercambio de agua entre la plataforma y el oc\u00e9ano abierto en el Atl\u00e1ntico Suroccidental: Climatolog\u00eda y eventos extremos<br />UJornadas Nacionales de Ciencias del Mar; Comodoro Rivadavia, Argentina",
+    "Intercambio de agua entre la plataforma y el oc\u00e9ano abierto en el Atl\u00e1ntico Suroccidental: Climatolog\u00eda y eventos extremos<br />Jornadas Nacionales de Ciencias del Mar; Comodoro Rivadavia, Argentina",
     -45.8632024,
     -67.4752615
   ],
