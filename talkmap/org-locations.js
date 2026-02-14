@@ -10,11 +10,6 @@ var addressPoints = [
     -58.3887904
   ],
   [
-    "Cross-shelf exchange in the Southwestern Atlantic shelf<br />PostDoc Research Day - University of Victoria; Victoria, Canada",
-    48.4283182,
-    -123.364953
-  ],
-  [
     "Extreme event of water exchange between the Western Boundary Currents and the adjacent shelf in the South Atlantic<br />International Workshop on Western Boundary Current \u2013 Subtropical Continental Shelf Interactions; Savannah, Georgia, United States",
     32.0790074,
     -81.0921335
@@ -33,5 +28,10 @@ var addressPoints = [
     "Evidencia de un flujo de Agua Intermedia Ant\u00e1rtica hacia el norte a lo largo del talud continental del Atl\u00e1ntico Sur Occidental a 34\u00baS<br />Jornadas Nacionales de Ciencias del Mar; Comodoro Rivadavia, Argentina",
     -45.8632024,
     -67.4752615
+  ],
+  [
+    "Cross-shelf exchange in the Southwestern Atlantic shelf<br />PostDoc Research Day - University of Victoria; Victoria, Canada",
+    48.4283182,
+    -123.364953
   ]
 ];
