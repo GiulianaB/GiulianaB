@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2022-03-09
+excerpt: ''
 venue:  'Frontiers in Marine Science'
 citation: 'Berden G, Piola AR and Palma ED (2022) Cross-Shelf Exchange in the Southwestern Atlantic Shelf: Climatology and Extreme Events. Front. Mar. Sci. 9:855183. doi: 10.3389/fmars.2022.855183'
 ---
