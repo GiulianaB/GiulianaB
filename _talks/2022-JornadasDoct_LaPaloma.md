@@ -11,7 +11,7 @@ Berden Giuliana, Piola Alberto, Charo Marcela, Palma Elbio, Möller Osmar
 
 
 
-This work was presented at the [Jornadas Doctorales Franco-Argentinas]([https://swot2025.org](https://www.cure.edu.uy/jornadas-doctorales-franco-latinoamericanas-una-aproximacion-pluridisciplinaria-a-los-desafios-de-los-oceanos-y-espacios-costero-marinos-24-al-29-de-octubre-del-2022-rocha-la-paloma-uruguay/)).
+This work was presented at the [Jornadas Doctorales Franco-Argentinas](https://www.cure.edu.uy/jornadas-doctorales-franco-latinoamericanas-una-aproximacion-pluridisciplinaria-a-los-desafios-de-los-oceanos-y-espacios-costero-marinos-24-al-29-de-octubre-del-2022-rocha-la-paloma-uruguay/).
 
 Abstract: 
 
