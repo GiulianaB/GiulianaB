@@ -11,13 +11,9 @@ Ocean circulation and its variability span a wide range of spatial and temporal 
 
 ## Current Position
 
-I am a **Postdoctoral Fellow** in Physical Oceanography at the [**University of Victoria**](https://www.uvic.ca), funded by the **Canadian Space Agency** and **Fisheries and Oceans Canada (DFO)**. I work with Dr. Jody Klymak, Dr. Tetjana Ross, and Dr. Guoqi Han as part of the [**Ocean Physics Group**](https://ocean-physics.seos.uvic.ca/~jklymak/pages/people.html) and the [**Canadian-Pacific Robotic Ocean Observing Facility (C-PROOF)**](https://cproof.uvic.ca).
+I am a **Postdoctoral Fellow** in Physical Oceanography at the [**University of Victoria**](https://www.uvic.ca), funded by the Canadian Space Agency and Fisheries and Oceans Canada (DFO). I work with Dr. Jody Klymak, Dr. Tetjana Ross, and Dr. Guoqi Han as part of the [**Ocean Physics Group**](https://ocean-physics.seos.uvic.ca/~jklymak/pages/people.html) and the [**Canadian-Pacific Robotic Ocean Observing Facility (C-PROOF)**](https://cproof.uvic.ca).
 
-## Current Position
-
-I am a **Postdoctoral Fellow** in Physical Oceanography at the [**University of Victoria**](https://www.uvic.ca), funded by the **Canadian Space Agency** and **Fisheries and Oceans Canada (DFO)**. I work with Dr. Jody Klymak, Dr. Tetjana Ross, and Dr. Guoqi Han as part of the [**Ocean Physics Group**](https://ocean-physics.seos.uvic.ca/~jklymak/pages/people.html) and the [**Canadian-Pacific Robotic Ocean Observing Facility (C-PROOF)**](https://cproof.uvic.ca).
-
-My research focuses on understanding the lateral transport and stirring of heat, nutrients, and biological components from coastal regions to the open ocean in the Northeast Pacific. I combine **autonomous underwater glider observations from C-PROOF's fleet with **satellite remote sensing (ocean color, sea surface temperature, and altimetry) to characterize mesoscale and submesoscale ocean dynamics. In particular, I work with high-resolution altimetry data from the **SWOT (Surface Water and Ocean Topography) mission to resolve fine-scale ocean features and mixing processes that are critical for understanding upper ocean physical and biological processes.
+My research focuses on understanding the lateral transport and stirring of heat, nutrients, and biological components from coastal regions to the open ocean in the Northeast Pacific. I combine autonomous underwater glider observations from C-PROOF's fleet with satellite remote sensing (ocean color, sea surface temperature, and altimetry) to characterize mesoscale and submesoscale ocean dynamics. In particular, I work with high-resolution altimetry data from the SWOT (Surface Water and Ocean Topography) mission to resolve fine-scale ocean features and mixing processes that are critical for understanding upper ocean physical and biological processes.
 
 
 ## Background
