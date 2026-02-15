@@ -11,8 +11,13 @@ Participated in the international oceanographic research survey *South Atlantic 
 
 The campaign contributed to the sustained observational effort aimed at understanding the variability of the South Atlantic Meridional Overturning Circulation and water mass transformations.
 
-<img src="{{ site.baseurl }}/images/SAMOC_area.pdf" alt="SAMOC area" width="80%">
-<img src="{{ site.baseurl }}/images/SAMOC_tripulacion.jpeg" alt="SAMOC tripulacion" width="80%">
+<p align="center">
+  <img src="{{ site.baseurl }}/images/SAMOC_area.pdf" alt="SAMOC area" width="600">
+</p>
+<p align="center">
+  <img src="{{ site.baseurl }}/images/SAMOC_tripulacion.jpeg" alt="SAMOC tripulacion" width="80%">
+</p>
+
 
 🔗 [Project website](https://www.aoml.noaa.gov/phod/SAMOC_international/)  
 🎥 [Cruise video](https://www.youtube.com/watch?v=ekOx3E3xi1M)
