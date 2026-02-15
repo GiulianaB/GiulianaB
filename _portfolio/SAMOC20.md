@@ -1,6 +1,6 @@
 ---
 title: "SAMOC 2022 – South Atlantic Meridional Overturning Circulation"
-excerpt: "<br/><img src='/images/SAMOC_logo.png'>"
+excerpt: "<br/><img src='/images/samoc_logo.png'>"
 collection: portfolio
 ---
 
@@ -15,7 +15,7 @@ The campaign contributed to the sustained observational effort aimed at understa
   <img src="{{ site.baseurl }}/images/SAMOC_area.pdf" alt="SAMOC area" width="600">
 </p>
 <p align="center">
-  <img src="{{ site.baseurl }}/images/SAMOC_tripulacion.jpeg" alt="SAMOC tripulacion" width="80%">
+  <img src="{{ site.baseurl }}/images/samoc_tripulacion.jpeg" alt="SAMOC tripulacion" width="80%">
 </p>
 
 
