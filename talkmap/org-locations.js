@@ -15,6 +15,11 @@ var addressPoints = [
     -81.0921335
   ],
   [
+    "Evidence of a sporadic northward flow of intermediate waters along the Western South Atlantic continental Slope at 34\u00baS: seasonal and interannual variability<br />Ocean Science Meeting; Virtual",
+    44.4939936,
+    11.3576917
+  ],
+  [
     "Intercambio de agua entre la plataforma y el oc\u00e9ano abierto en el Atl\u00e1ntico Suroccidental: Climatolog\u00eda y eventos extremos<br />Jornadas Nacionales de Ciencias del Mar; Comodoro Rivadavia, Argentina",
     -45.8632024,
     -67.4752615
