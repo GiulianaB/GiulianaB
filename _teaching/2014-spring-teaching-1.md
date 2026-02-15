@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant – General Oceanography & Oceanographic Instrumentation"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2014-general-oceanography
+venue: "University of Buenos Aires, Department of Atmospheric and Ocean Sciences"
+date: 2016-03-01
+location: "Buenos Aires, Argentina"
 ---
+**Duration:** January–December 2016  
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Served as Teaching Assistant for the undergraduate courses *General Oceanography* and *Instruments and Methods of Oceanographic Observation*. 
