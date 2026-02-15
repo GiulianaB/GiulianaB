@@ -1,0 +1,20 @@
+---
+title: "Exchange of water between the continental shelf and the adjacent ocean"
+collection: talks
+type: "Talk"
+permalink: /talks/2022-JornadasDoct_LaPaloma
+venue: "Jornadas Doctorales Franco-Argentinas"
+date: 2022-10-24
+location: "La Paloma, Uruguay - 2022"
+--- 
+Berden Giuliana, Piola Alberto, Charo Marcela, Palma Elbio, Möller Osmar
+
+
+
+This work was presented at the [Jornadas Doctorales Franco-Argentinas]([https://swot2025.org](https://www.cure.edu.uy/jornadas-doctorales-franco-latinoamericanas-una-aproximacion-pluridisciplinaria-a-los-desafios-de-los-oceanos-y-espacios-costero-marinos-24-al-29-de-octubre-del-2022-rocha-la-paloma-uruguay/)).
+
+Abstract: 
+
+La plataforma del Atlántico Sur occidental se caracteriza por albergar uno de los ecosistemas marinos más productivos del hemisferio sur. Esta productividad está asociada al suministro de nutrientes procedentes de las corrientes de plataforma, de la descarga continental, principalmente del Río de la Plata, y las fuentes del océano abierto. Las aguas productivas frecuentemente son exportadas hacia océano abierto y poseen baja probabilidad de retornar a la plataforma. Por lo que la interacción entre la plataforma y el océano adyacente modula la productividad primaria de la plataforma y tiene un impacto biogeoquímico significativo en el océano abierto. 
+Las aguas subantárticas y subtropicales fluyen sobre la plataforma en direcciones opuestas y chocan creando el frente subtropical de plataforma. Sobre el talud continental se encuentran la corriente de Malvinas fluyendo hacia el noreste y la corriente de Brasil fluyendo hacia el suroeste. Estas corrientes chocan aproximadamente en 37,5°S formando la Confluencia Brasil/Malvinas (CBM). Aunque estas intensas corrientes de borde oeste inhiben los intercambios entre la plataforma y el océano abierto adyacente, los datos in situ y satelitales, así como los modelos numéricos, sugieren la existencia de intensos transportes a través del talud cerca de la CBM. 
+En este trabajo se estudian los intercambios de agua entre plataforma y océano abierto entre 30-40°S durante 1993-2018 a partir de un reanálisis global de alta resolución. El modelo indica que la variabilidad de los intercambios está principalmente asociada a los vientos locales en respuesta a los sistemas atmosféricos sinópticos. Los eventos extremos suelen durar menos de 2 días, implican que el 4% del agua de la plataforma es reemplazada por agua del océano abierto y llegan a cuadruplicar la exportación media.
