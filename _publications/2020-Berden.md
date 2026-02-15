@@ -22,6 +22,4 @@ The main SASW branch, oversaturated in oxygen and with high-fluorescence mixes w
   <img src="{{ site.baseurl }}/images/Fig_berden2020.jpg" alt="Circulation schematic" width="80%">
 </p>
 
-**DOI:** [10.1029/2020JC016500](https://doi.org/10.1029/2020JC016500)
-
 **Full text:** [View paper at AGU Publications](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JC016500)
