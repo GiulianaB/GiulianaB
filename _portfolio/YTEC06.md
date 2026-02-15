@@ -1,6 +1,6 @@
 ---
 title: "YTEC-GTGM 06 – Multidisciplinary Marine Survey"
-excerpt: "<br/><img src='/images/Lander2.jpeg'>"
+excerpt: "<img src="{{ site.baseurl }}/images/Lander2.jpeg" alt="YTEC-GTGM 06 crew" width="80%">"
 collection: portfolio
 ---
 
