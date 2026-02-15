@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Ocean circulation and its variability span a wide range of spatial and temporal scales. My research combines satellite observations — including sea surface temperature, ocean color, and satellite altimetry (including high-resolution SWOT data) — and in-situ measurements to investigate the dynamics of shelf-ocean boundary regions, from western boundary currents to eastern boundary upwelling systems. Understanding how **exchanges between the continental shelf and open ocean influence ocean circulation, marine ecosystems, biogeochemical balances, and heat budgets is central to improving our understanding of the global ocean system.
+Ocean circulation and its variability span a wide range of spatial and temporal scales. My research combines satellite observations — including sea surface temperature, ocean color, and satellite altimetry (including high-resolution SWOT data) — and in-situ measurements to investigate the dynamics of shelf-ocean boundary regions, from western boundary currents to eastern boundary upwelling systems. Understanding how exchanges between the continental shelf and open ocean influence ocean circulation, marine ecosystems, biogeochemical balances, and heat budgets is central to improving our understanding of the global ocean system.
 
 ## Current Position
 
