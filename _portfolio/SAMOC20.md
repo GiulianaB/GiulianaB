@@ -1,6 +1,6 @@
 ---
 title: "SAMOC 2022 – South Atlantic Meridional Overturning Circulation"
-excerpt: "Participation in the SAMOC international oceanographic survey aboard R/V ARA Austral (CTD team, December 2022).<br/><img src='/images/samoc_ctd.jpg'>"
+excerpt: "Participation in the SAMOC international oceanographic survey aboard R/V ARA Austral (CTD team, December 2022).<br/><img src='/images/SAMOC_area.pdf'>"
 collection: portfolio
 ---
 
