@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Current Position
+======
+Postdoctoral fellow in the University of Victoria, Canada, under the supervition of Jody Klymak, Tetjana Ross and Guoqi Han.
+
 Education
 ======
 * Ph.D in Universidad de Buenos Aires (2018-2023)
