@@ -19,7 +19,7 @@ This new configuration, called "Model for Storm Surge Simulations" (M3S), consid
 The system was developed and validated forecasting two strong positive storm surges. Results show that 4DEnSRF's innovations produce a positive impact upon the forecast skill up to 2 days. Hence, the 4-day forecast can be divided into two parts: the first 2 days with a stronger dependence on the initial conditions and the other 2 days purely driven by external forcing. It was found that a symmetric assimilation window of 12 hr length produces the best initial condition. Under this configuration, 4DEnSRF removes biases and improves the timing of the M3S forecasted solutions. 
 
 The largest improvements were observed at the northern SWACS, where more chaotic processes, such as the atmospheric circulation, explain a large part of the sea-surface height variability. No significant improvements were found at the southern SWACS, which can be attributed to the strong tidal dynamics that characterise the zone. Our results show that the incorporation of 4DEnSRF into M3S can significantly improve the forecast in the SWACS and also the accuracy of the short-range detection of storm surges.
-
+ 
 <p align="center">
   <img src="{{ site.baseurl }}/images/Dinapoli2023.png" alt="Storm surge forecast system" width="80%">
 </p>
