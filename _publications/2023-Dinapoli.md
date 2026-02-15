@@ -24,6 +24,4 @@ The largest improvements were observed at the northern SWACS, where more chaotic
   <img src="{{ site.baseurl }}/images/Dinapoli2023.png" alt="Storm surge forecast system" width="80%">
 </p>
 
-**DOI:** [10.1002/qj.4509](https://doi.org/10.1002/qj.4509)
-
 **Full text:** [View paper at Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4509)
