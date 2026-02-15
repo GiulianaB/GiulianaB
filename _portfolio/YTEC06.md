@@ -24,4 +24,4 @@ The campaign contributed to understanding the marine geology, physical oceanogra
   <img src="{{ site.baseurl }}/images/SeaLion.jpeg" alt="Sea lion encounter" width="600">
 </p>
 
-🔗 [Campaign website (GeoFlama)](https://www.geoflama.ar/campana-ytec-gtgm-6/)
+🔗 [Cruise website (GeoFlama)](https://www.geoflama.ar/campana-ytec-gtgm-6/)
