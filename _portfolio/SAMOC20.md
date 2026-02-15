@@ -1,6 +1,6 @@
 ---
 title: "SAMOC 2022 – South Atlantic Meridional Overturning Circulation"
-excerpt: "<br/><img src='/images/samoc_logo.png'>"
+excerpt: "<img src='/images/samoc_logo.png'>"
 collection: portfolio
 ---
 
