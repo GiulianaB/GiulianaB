@@ -11,7 +11,7 @@ redirect_from:
 
 Current Position
 ======
-Postdoctoral fellow in the University of Victoria, Canada, under the supervition of Jody Klymak, Tetjana Ross and Guoqi Han.
+Postdoctoral fellow in the University of Victoria, Canada, under the supervision of Jody Klymak, Tetjana Ross and Guoqi Han.
 
 Education
 ======
