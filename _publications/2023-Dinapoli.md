@@ -1,0 +1,29 @@
+---
+title: "Improving the short-range forecast of storm surges in the southwestern Atlantic continental shelf using 4DEnSRF data assimilation"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-Dinapoli
+date: 2023-06-13
+venue: 'Quarterly Journal of the Royal Meteorological Society'
+paperurl: 'https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4509'
+excerpt: ''
+citation: 'Dinápoli, M.G., Ruiz, J.J., Simionato, C.G. & Berden, G. (2023). Improving the short-range forecast of storm surges in the southwestern Atlantic continental shelf using 4DEnSRF data assimilation. Quarterly Journal of the Royal Meteorological Society, 149(755), 2333–2347. https://doi.org/10.1002/qj.4509'
+---
+
+## Abstract
+
+In this study, the assimilation of tide gauge and altimetry data into a two-dimensional barotropic numerical model for the southwestern Atlantic continental shelf (SWACS) was developed. To do this, the preoperative 4-day storm surges ensemble prediction system developed by Dinápoli et al. (2021, *Journal of the Royal Meteorological Society* 147: 557–572) was implemented for the SWACS. 
+
+This new configuration, called "Model for Storm Surge Simulations" (M3S), considers a curvilinear grid that covers the SWACS with higher resolution along the shoreline (from 2 to 10 km). M3S was forced with an ensemble of 60 members conformed by the combination of perturbations of the eight principal tidal constituents and of the atmospheric products derived from the Global Ensemble Forecast System. Tidal gauge and altimetry data were assimilated in an asynchronous mode using the four-dimensional-ensemble square-root filter (4DEnSRF). 
+
+The system was developed and validated forecasting two strong positive storm surges. Results show that 4DEnSRF's innovations produce a positive impact upon the forecast skill up to 2 days. Hence, the 4-day forecast can be divided into two parts: the first 2 days with a stronger dependence on the initial conditions and the other 2 days purely driven by external forcing. It was found that a symmetric assimilation window of 12 hr length produces the best initial condition. Under this configuration, 4DEnSRF removes biases and improves the timing of the M3S forecasted solutions. 
+
+The largest improvements were observed at the northern SWACS, where more chaotic processes, such as the atmospheric circulation, explain a large part of the sea-surface height variability. No significant improvements were found at the southern SWACS, which can be attributed to the strong tidal dynamics that characterise the zone. Our results show that the incorporation of 4DEnSRF into M3S can significantly improve the forecast in the SWACS and also the accuracy of the short-range detection of storm surges.
+
+<p align="center">
+  <img src="{{ site.baseurl }}/images/Dinapoli2023.png" alt="Storm surge forecast system" width="80%">
+</p>
+
+**DOI:** [10.1002/qj.4509](https://doi.org/10.1002/qj.4509)
+
+**Full text:** [View paper at Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4509)
