@@ -10,5 +10,6 @@ location: "Victoria, Canada"
 
 Berden Giuliana, Piola Alberto, Palma Elbio
 
+PostDoc Research Day - University of Victoria
 
 <a href="{{ site.baseurl }}/files/pdoc-researchday2025schedule.pdf" target="_blank" rel="noopener noreferrer">📅 View full program</a>
