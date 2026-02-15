@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 **South Atlantic Meridional Overturning Circulation (SAMOC) – December 2022**  
-R/V ARA *Austral*
+R/V ARA *Austral* 
 
 Participated in the international oceanographic research survey *South Atlantic Meridional Circulation (SAMOC)* as part of the **CTD team**. The cruise included hydrographic stations, deployment of moorings, real-time data sampling across the continental shelf and the Brazil Current in the region relevant to my PhD research.
 
