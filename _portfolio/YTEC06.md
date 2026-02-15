@@ -1,6 +1,6 @@
 ---
 title: "YTEC-GTGM 06 – Multidisciplinary Marine Survey"
-excerpt: "<img src='/images/Lander2.jpeg' style='max-width: 300px;'>"
+excerpt: "<img src='/images/Lander2.jpeg' style='max-width: 500px;'>"
 collection: portfolio
 ---
 
