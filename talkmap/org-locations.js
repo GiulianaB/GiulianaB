@@ -30,6 +30,11 @@ var addressPoints = [
     11.3576917
   ],
   [
+    "The Role of a Cuddy in the Northeast Pacific in Driving Offshore Export and Retaining Nearshore Water<br />Ocean Science Meeting; Glasgow, Scotland",
+    55.861155,
+    -4.2501687
+  ],
+  [
     "Cross-shelf exchange in the Southwestern Atlantic shelf<br />PostDoc Research Day - University of Victoria; Victoria, Canada",
     48.4283182,
     -123.364953
